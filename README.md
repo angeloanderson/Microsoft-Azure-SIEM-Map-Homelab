@@ -29,10 +29,11 @@ Created my firewall rules to accept all traffic:  <br/>
 <br />
 <br />
 Created a Log Analytics workspace: <br/>
-<img src="https://i.imgur.com/8OYYfcI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PmBnj4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Connected Log Analytics to my VM (NO PICTURE)
+ Connected Log Analytics to my VM <br/>
+ <img src="https://i.imgur.com/6kK5gsQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
 Setting up Sentinel, connecting my VM I previously made to it:  <br/>
@@ -40,11 +41,11 @@ Setting up Sentinel, connecting my VM I previously made to it:  <br/>
 <br />
 <br />
 Connected to my VM through Remote Desktop:  <br/>
-<img src="https://i.imgur.com/ZMp9VmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N6u0WN1.png) " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Pinging my vm to make sure traffic can come through:  <br/>
-<img src="https://i.imgur.com/GkZRWJX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3ckp0PV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Running a Powershell Strip (It just basically gets all the EventLog-SecurityLog grabs all the events of all the failed logins and creates a new logfile):  <br/>
