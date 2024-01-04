@@ -48,7 +48,7 @@ Pinging my vm to make sure traffic can come through:  <br/>
 <br />
 <br />
 Running a Powershell Strip (It just basically gets all the EventLog-SecurityLog grabs all the events of all the failed logins and creates a new logfile):  <br/>
-<img src="https://i.imgur.com/7xotPhX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/74tryKt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
 Log that was created after running the strip:  <br/>
@@ -60,7 +60,7 @@ Creating a logfile to train log analytics what to look for in the logfile:  <br/
 <br />
 <br />
 Making sure my logs came through successfully:  <br/>
-<img src="https://i.imgur.com/1scymYy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zqBrBKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setting Up World MAP:  <br/>
@@ -69,7 +69,7 @@ Setting Up World MAP:  <br/>
 <br />
 Checking my powershell strip, noticed that people have discovered my VM and are trying to brute force
 <img src="https://i.imgur.com/nyNNVZr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/RoodEet.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sKNXiGf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  
  
