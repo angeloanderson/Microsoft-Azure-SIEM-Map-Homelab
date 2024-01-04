@@ -65,7 +65,7 @@ Making sure my logs came through successfully:  <br/>
 <br />
 <br />
 Setting Up World MAP:  <br/>
-<img src="https://i.imgur.com/rldHc8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jME2VTA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Checking my powershell strip, noticed that people have discovered my VM and are trying to brute force
